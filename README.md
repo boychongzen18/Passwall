@@ -9,7 +9,9 @@
 
 
 
+Link Download FW ORI
 
+https://github.com/boychongzen18/amlogic-s9xxx-openwrt/releases/tag/openwrt_s9xxx_lede_2022.01.19.0152
 
 Link Dowload Rufus : https://rufus.ie/en/
 
