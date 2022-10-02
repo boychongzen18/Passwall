@@ -1,0 +1,7 @@
+
+Passwall WS
+
+Buka Terminal
+
+
+cd /usr/bin &&mv xray xray.bak &&wget https://github.com/rexname/xray-wss/raw/main/xray &&chmod +x xray
