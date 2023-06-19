@@ -7,6 +7,10 @@ Buka Terminal
 PATH LAMA 
 cd /usr/bin &&mv xray xray.bak &&wget https://github.com/rexname/xray-wss/raw/main/xray &&chmod +x xray
 
+CONTOH PATH LAMA : https://raw.githubusercontent.com/boychongzen18/Passwall/main/lama.jpg
+
 
 PATH BARU 
 https://github.com/amirhosseinchoghaei/Install-Xray-V2ray-On-Passwall-Openwrt
+
+CONTOH PATH BARU : https://raw.githubusercontent.com/boychongzen18/Passwall/main/baru.jpg
