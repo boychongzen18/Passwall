@@ -4,4 +4,9 @@ Passwall WS
 Buka Terminal
 
 
+PATH LAMA 
 cd /usr/bin &&mv xray xray.bak &&wget https://github.com/rexname/xray-wss/raw/main/xray &&chmod +x xray
+
+
+PATH BARU 
+https://github.com/amirhosseinchoghaei/Install-Xray-V2ray-On-Passwall-Openwrt
